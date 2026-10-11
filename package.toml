@@ -1,0 +1,11 @@
+name = "lighting_tools"
+vendor = "magicbevy"
+version = "0.1.0"
+category = "editor"
+magic = "0.1.0"
+description = "Write your package description here"
+keywords = []
+status = "enabled"
+targets = ["editor", "runtime"]
+
+[dependencies]
