@@ -1,9 +1,9 @@
 name = "lighting_tools"
 vendor = "magicbevy"
-version = "0.2.2"
+version = "0.2.3"
 category = "editor"
 magic = "0.1.0"
-channel = "stable"
+channel = "beta"
 description = "Write your package description here"
 keywords = []
 status = "enabled"
