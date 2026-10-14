@@ -1,6 +1,6 @@
 name = "lighting_tools"
 vendor = "magicbevy"
-version = "0.2.0"
+version = "0.2.1"
 category = "editor"
 magic = "0.1.0"
 channel = "stable"
