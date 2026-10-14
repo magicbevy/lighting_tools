@@ -1,0 +1,20 @@
+[package]
+id = "magicbevy/lighting_tools"
+
+[[releases]]
+version = "0.2.0"
+magic = "0.1.0"
+timestamp = 1792010540
+channel = "stable"
+
+[[releases]]
+version = "0.1.1"
+magic = "0.1.0"
+timestamp = 1792010250
+channel = "preview"
+
+[[releases]]
+version = "0.1.0"
+magic = "0.1.0"
+timestamp = 1792010013
+channel = "stable"
